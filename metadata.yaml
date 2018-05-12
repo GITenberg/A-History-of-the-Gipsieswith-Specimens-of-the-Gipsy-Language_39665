@@ -1,0 +1,31 @@
+_repo: A-History-of-the-Gipsieswith-Specimens-of-the-Gipsy-Language_39665
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Simson, Walter
+    gutenberg_agent_id: '40140'
+    url: http://www.gutenberg.org/2009/agents/40140
+  editor:
+    agent_name: Simson, James
+    birthdate: 1826
+    gutenberg_agent_id: '40141'
+    url: http://www.gutenberg.org/2009/agents/40141
+description: ''
+gutenberg_issued: '2012-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39665'
+  lccn: '13011947'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romanies'
+- !lcsh 'Romanies -- Languages'
+- !lcc 'DX'
+title: 'A History of the Gipsies: with Specimens of the Gipsy Language'
+url: http://www.gutenberg.org/ebooks/39665
